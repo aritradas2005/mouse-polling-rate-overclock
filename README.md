@@ -10,7 +10,6 @@ Increase Mouse polling rate for better aim . This one works with secure boot on 
 ## Prerequisites
 1. Turn off core isolation / memory integrity
 2. Download my repo
-3. Brain
 
 
 ## Steps 
