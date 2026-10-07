@@ -1,4 +1,4 @@
-# Mouse-polling-rate-overlock
+# Mouse-polling-rate-overclock
 ## Transform your potato mouse into a gaming mouse .
 Increase Mouse polling rate for better aim . This one works with secure boot on . 
 
